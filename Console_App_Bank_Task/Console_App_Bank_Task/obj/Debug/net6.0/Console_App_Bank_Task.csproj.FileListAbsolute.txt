@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\bin\Debug\net6.0\Console_App_Bank_Task.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\bin\Debug\net6.0\Console_App_Bank_Task.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\bin\Debug\net6.0\Console_App_Bank_Task.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\bin\Debug\net6.0\Console_App_Bank_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\bin\Debug\net6.0\Console_App_Bank_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\refint\Console_App_Bank_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\Console_App_Bank_Task.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Console_App_Bank\Console_App_Bank_Task\Console_App_Bank_Task\obj\Debug\net6.0\ref\Console_App_Bank_Task.dll
